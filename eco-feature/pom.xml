@@ -9,12 +9,13 @@
         <module>eco-feature-payment</module>
         <module>eco-feature-workspace</module>
         <module>eco-feature-gcp-runtimeconfig</module>
+        <module>eco-feature-multi_tenant</module>
     </modules>
 
     <parent>
         <groupId>com.github.flock-community.flock-eco</groupId>
         <artifactId>flock-eco-parent</artifactId>
-        <version>1.9.0</version>
+        <version>1.9.0-07acfa5</version>
     </parent>
 
     <artifactId>flock-eco-feature-parent</artifactId>
